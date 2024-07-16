@@ -6,4 +6,6 @@ def main():
   time = datetime.datetime()
   return response.status_code time
 
-if __name__ = main
+if __name__ == '__main__':
+  main()
+
