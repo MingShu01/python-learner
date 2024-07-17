@@ -6,6 +6,11 @@ def main():
   time = datetime.datetime()
   return response.status_code time
 
+class Meta():
+  def __init__():
+    self.name = "jabin"
+    self.bool = True
+
 if __name__ == '__main__':
   main()
 
