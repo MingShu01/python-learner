@@ -11,6 +11,12 @@ class Meta():
     self.name = "jabin"
     self.bool = True
 
+  def run():
+    if self.name == 'jabin' and self.bool = True:
+      data = 'jabin is running'
+    return data
+
+
 if __name__ == '__main__':
   main()
 
