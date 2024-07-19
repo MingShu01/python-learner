@@ -20,3 +20,6 @@ class Meta():
 if __name__ == '__main__':
   main()
 
+int = 5
+float = 3.5
+bool = True or False
