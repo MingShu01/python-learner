@@ -23,3 +23,7 @@ if __name__ == '__main__':
 int = 5
 float = 3.5
 bool = True or False
+set = {2, 3, 5}
+dict = {'name':'jabin', 'age':32}
+tuple = (2, 3, 4, 5)
+list = ['a', 'g', 'g']
