@@ -27,3 +27,8 @@ set = {2, 3, 5}
 dict = {'name':'jabin', 'age':32}
 tuple = (2, 3, 4, 5)
 list = ['a', 'g', 'g']
+for i in list:
+  print(f'i am is {i}')
+while True:
+  print('python is the best program language')
+  
