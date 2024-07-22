@@ -31,4 +31,6 @@ for i in list:
   print(f'i am is {i}')
 while True:
   print('python is the best program language')
-  
+if bool == True:
+  print('it is bools')
+
