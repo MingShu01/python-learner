@@ -34,3 +34,9 @@ while True:
 if bool == True:
   print('it is bools')
 
+
+import request, time
+
+
+response = request.get('https://github.com')
+print(response.status_code)
