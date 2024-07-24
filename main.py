@@ -40,3 +40,8 @@ import request, time
 
 response = request.get('https://github.com')
 print(response.status_code)
+
+import numpy, panda
+
+np = numpy.arrible()
+panda = panda.add()
