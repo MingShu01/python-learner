@@ -17,3 +17,6 @@ print('我希望能对那个女孩说我爱你，')
 print('如果非要给这份爱加一个期限的话，')
 
 print('我希望是一万年。')
+
+img.insert("i'am idiot!")
+img.insert('this is my world')
