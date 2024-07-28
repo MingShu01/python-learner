@@ -20,3 +20,6 @@ print('我希望是一万年。')
 
 img.insert("i'am idiot!")
 img.insert('this is my world')
+def insert(str):
+    print(str)
+
