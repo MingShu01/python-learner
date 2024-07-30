@@ -23,3 +23,5 @@ img.insert('this is my world')
 def insert(str):
     print(str)
 
+what are you doing? what happened?
+
