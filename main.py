@@ -37,11 +37,11 @@ if bool == True:
 
 import request, time
 
+import time
 
-response = request.get('https://github.com')
-print(response.status_code)
-
-import numpy, panda
-
-np = numpy.arrible()
-panda = panda.add()
+while True:
+    try:
+        print('Hi')
+        time.sleep(1)
+    except:
+        print('Bye')
